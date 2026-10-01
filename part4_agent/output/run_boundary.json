@@ -1,0 +1,11 @@
+{
+  "run_month": "July",
+  "validation_status": "valid",
+  "validation_errors": [],
+  "flagged_categories": [],
+  "suppressed_categories": [],
+  "escalated_categories": [
+    "Ethnic Wear"
+  ],
+  "action_taken": "drafted_and_held_for_approval"
+}

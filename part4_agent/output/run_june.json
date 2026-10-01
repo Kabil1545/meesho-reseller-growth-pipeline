@@ -1,0 +1,36 @@
+{
+  "run_month": "June",
+  "validation_status": "valid",
+  "validation_errors": [],
+  "flagged_categories": [
+    {
+      "category": "Ethnic Wear",
+      "mom_pct": -58.74,
+      "previous_revenue": 185107.61,
+      "current_revenue": 76371.53,
+      "drafted": true,
+      "message": "Context: Ethnic Wear revenue in June compared with May.\nInsight (FACT): Ethnic Wear revenue moved from INR 185107.61 in May to INR 76371.53 in June, a change of -58.74% month-on-month.\nImplication: HYPOTHESIS: the fall may be a fade-out of the previous month's spike, reduced reseller activity or stock gaps; the data alone does not prove which. Next step: the category manager should compare active resellers and cancel/return rates in Ethnic Wear across the two months before changing targets.\nStatus: DRAFT - held for human approval, not sent."
+    },
+    {
+      "category": "Home & Kitchen",
+      "mom_pct": 42.59,
+      "previous_revenue": 91152.57,
+      "current_revenue": 129971.22,
+      "drafted": true,
+      "message": "Context: Home & Kitchen revenue in June compared with May.\nInsight (FACT): Home & Kitchen revenue moved from INR 91152.57 in May to INR 129971.22 in June, a change of 42.59% month-on-month.\nImplication: HYPOTHESIS: the rise may come from a demand spike, a promotion or a few high-volume resellers; the data alone does not prove which. Next step: the category manager should check which resellers and regions drove the increase and confirm that stock and fulfilment can sustain it.\nStatus: DRAFT - held for human approval, not sent."
+    },
+    {
+      "category": "Kids Wear",
+      "mom_pct": 23.9,
+      "previous_revenue": 45793.78,
+      "current_revenue": 56737.78,
+      "drafted": true,
+      "message": "Context: Kids Wear revenue in June compared with May.\nInsight (FACT): Kids Wear revenue moved from INR 45793.78 in May to INR 56737.78 in June, a change of 23.9% month-on-month.\nImplication: HYPOTHESIS: the rise may come from a demand spike, a promotion or a few high-volume resellers; the data alone does not prove which. Next step: the category manager should check which resellers and regions drove the increase and confirm that stock and fulfilment can sustain it.\nStatus: DRAFT - held for human approval, not sent."
+    }
+  ],
+  "suppressed_categories": [
+    "Western Wear"
+  ],
+  "escalated_categories": [],
+  "action_taken": "drafted_and_held_for_approval"
+}
