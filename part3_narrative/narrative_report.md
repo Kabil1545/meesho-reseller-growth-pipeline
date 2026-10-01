@@ -4,19 +4,19 @@
 
 ### May - Ethnic Wear (+77.1% MoM, flagged)
 
-**Context:** This update covers Ethnic Wear revenue for May compared with April 2026, using Meesho's reseller order data.
+**Context:** This update looks at how much money Ethnic Wear earned in May 2026 compared with April 2026, using Meesho's reseller order data.
 
-**Insight (FACT):** Ethnic Wear revenue rose from INR 104520.77 in April to INR 185107.61 in May, a change of 77.1% month-on-month. This is above the flagging threshold, so the category is flagged.
+**Insight (FACT):** Ethnic Wear revenue grew from INR 104520.77 in April to INR 185107.61 in May. That is a growth of 77.1% month-on-month, which is above the flagging limit, so this category is flagged.
 
-**Implication:** HYPOTHESIS: the jump may be driven by a seasonal or festive demand push or a promotion in Ethnic Wear; the data alone does not prove the cause. Next step: the Ethnic Wear category manager should check which resellers and regions contributed most of the increase and confirm that stock and fulfilment can sustain this level.
+**Implication:** HYPOTHESIS: this big jump may be because of a festive-season demand or a special offer on Ethnic Wear, but the data alone cannot prove the reason. Next step: the Ethnic Wear category manager should find out which resellers and which regions brought most of the extra sales, and check that stock and delivery can keep up with this level.
 
 ### June - Ethnic Wear (-58.74% MoM, flagged)
 
-**Context:** This update covers Ethnic Wear revenue for June compared with May 2026, using Meesho's reseller order data.
+**Context:** This update looks at how much money Ethnic Wear earned in June 2026 compared with May 2026, using Meesho's reseller order data.
 
-**Insight (FACT):** Ethnic Wear revenue fell from INR 185107.61 in May to INR 76371.53 in June, a change of -58.74% month-on-month. This is above the flagging threshold in the opposite direction, so the category is flagged.
+**Insight (FACT):** Ethnic Wear revenue dropped from INR 185107.61 in May to INR 76371.53 in June. That is a change of -58.74% month-on-month, which is above the flagging limit in the opposite direction, so this category is flagged.
 
-**Implication:** HYPOTHESIS: the fall may reflect May's spike fading once the demand push ended, or reduced reseller activity or stock gaps; the data alone does not prove which. Next step: the Ethnic Wear category manager should compare active resellers and cancellation/return rates in Ethnic Wear across May and June before resetting targets.
+**Implication:** HYPOTHESIS: the drop may be because May's high sales were a short-term spike that faded, or because fewer resellers were active or some stock was missing, but the data alone cannot prove which. Next step: the Ethnic Wear category manager should compare the number of active resellers and the cancellation and return rates for Ethnic Wear between May and June before changing any targets.
 
 ### Self-score against the 4-criterion refinement checklist (applies to both narratives)
 
